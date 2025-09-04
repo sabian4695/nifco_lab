@@ -1,6 +1,6 @@
 import Image from "next/image";
-//@ts-ignore
-import * as db from './helpers/api.tsx'
+
+import * as db from './helpers/api'
 
 export default function Home() {
   
