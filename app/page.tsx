@@ -1,7 +1,7 @@
 //import * as db from './helpers/api'
 'use client';
-import dotenv from 'dotenv' 
-dotenv.config()
+// import dotenv from 'dotenv' 
+// dotenv.config()
 
 export default function Home() {
   const testConnection = () => {
